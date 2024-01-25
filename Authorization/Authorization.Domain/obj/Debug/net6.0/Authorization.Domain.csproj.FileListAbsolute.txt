@@ -1,0 +1,13 @@
+/home/user/Documents/AxonProject/Authorization/Authorization.Domain/bin/Debug/net6.0/Authorization.Domain.deps.json
+/home/user/Documents/AxonProject/Authorization/Authorization.Domain/bin/Debug/net6.0/Authorization.Domain.dll
+/home/user/Documents/AxonProject/Authorization/Authorization.Domain/bin/Debug/net6.0/Authorization.Domain.pdb
+/home/user/Documents/AxonProject/Authorization/Authorization.Domain/obj/Debug/net6.0/Authorization.Domain.csproj.AssemblyReference.cache
+/home/user/Documents/AxonProject/Authorization/Authorization.Domain/obj/Debug/net6.0/Authorization.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/AxonProject/Authorization/Authorization.Domain/obj/Debug/net6.0/Authorization.Domain.AssemblyInfoInputs.cache
+/home/user/Documents/AxonProject/Authorization/Authorization.Domain/obj/Debug/net6.0/Authorization.Domain.AssemblyInfo.cs
+/home/user/Documents/AxonProject/Authorization/Authorization.Domain/obj/Debug/net6.0/Authorization.Domain.csproj.CoreCompileInputs.cache
+/home/user/Documents/AxonProject/Authorization/Authorization.Domain/obj/Debug/net6.0/Authorization.Domain.sourcelink.json
+/home/user/Documents/AxonProject/Authorization/Authorization.Domain/obj/Debug/net6.0/Authorization.Domain.dll
+/home/user/Documents/AxonProject/Authorization/Authorization.Domain/obj/Debug/net6.0/refint/Authorization.Domain.dll
+/home/user/Documents/AxonProject/Authorization/Authorization.Domain/obj/Debug/net6.0/Authorization.Domain.pdb
+/home/user/Documents/AxonProject/Authorization/Authorization.Domain/obj/Debug/net6.0/ref/Authorization.Domain.dll

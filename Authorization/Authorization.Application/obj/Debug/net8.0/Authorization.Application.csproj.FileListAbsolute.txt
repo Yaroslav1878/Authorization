@@ -1,0 +1,17 @@
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/bin/Debug/net8.0/Authorization.Application.deps.json
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/bin/Debug/net8.0/Authorization.Application.dll
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/bin/Debug/net8.0/Authorization.Application.pdb
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/bin/Debug/net8.0/Authorization.Application.xml
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/bin/Debug/net8.0/Authorization.Domain.dll
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/bin/Debug/net8.0/Authorization.Domain.pdb
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/obj/Debug/net8.0/Authorization.Application.csproj.AssemblyReference.cache
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/obj/Debug/net8.0/Authorization.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/obj/Debug/net8.0/Authorization.Application.AssemblyInfoInputs.cache
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/obj/Debug/net8.0/Authorization.Application.AssemblyInfo.cs
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/obj/Debug/net8.0/Authorization.Application.csproj.CoreCompileInputs.cache
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/obj/Debug/net8.0/Authorization.Application.sourcelink.json
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/obj/Debug/net8.0/Authorization.Application.csproj.CopyComplete
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/obj/Debug/net8.0/Authorization.Application.dll
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/obj/Debug/net8.0/refint/Authorization.Application.dll
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/obj/Debug/net8.0/Authorization.Application.pdb
+/home/user/Documents/AxonProject/Authorization/Authorization.Application/obj/Debug/net8.0/ref/Authorization.Application.dll

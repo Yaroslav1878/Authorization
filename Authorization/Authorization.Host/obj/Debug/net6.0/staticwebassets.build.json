@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BwHDEvL/sDgSrWEPpXIvZkGSkwuVuolQ663U/ZnYmHM=",
+  "Source": "Authorization.Host",
+  "BasePath": "_content/Authorization.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Authorization.Application</name>
+    </assembly>
+    <members>
+        <member name="M:Authorization.Application.Controllers.ConfirmationsController.ValidateConfirmationRequest(System.Guid,System.String)">
+            <summary>
+            Validate confirmation request.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.ConfirmationsController.ResetPassword(Authorization.Application.Models.Requests.Confirmation.PasswordRecoveryRequestModel)">
+            <summary>
+            Send password recovery email.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.ConfirmationsController.ConfirmPasswordReset(System.Guid,System.String,Authorization.Application.Models.Requests.Confirmation.PasswordConfirmationRequestModel)">
+            <summary>
+            Confirm password.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.ConfirmationsController.ResendConfirmation(System.Int32)">
+            <summary>
+            Resend confirmation.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.RegistrationsController.InviteUser(Authorization.Application.Models.Requests.UserManagement.InviteUserRequestModel)">
+            <summary>
+            Invite user.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.RegistrationsController.RegisterUser(Authorization.Application.Models.Requests.UserManagement.RegisterUserRequestModel)">
+            <summary>
+            Register user.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.RolesController.GetRoles">
+            <summary>
+            Get roles.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.RolesController.GetAssignableRoles(System.Nullable{System.Int32})">
+            <summary>
+            Get assignable roles.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.TokensController.IssueToken(Authorization.Application.Models.Commands.Token.IssueTokenCommand)">
+            <summary>
+            Issue token.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.TokensController.RefreshAccessToken(Authorization.Application.Models.Requests.Token.RefreshTokenRequestModel)">
+            <summary>
+            Refresh access token.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.TokensController.Logout(Authorization.Application.Models.Requests.Token.RefreshTokenRequestModel)">
+            <summary>
+            Logout.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.UsersController.GetOwnProfile">
+            <summary>
+            Get own profile.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.UsersController.UpdateOwnProfile(Authorization.Application.Models.Requests.User.UpdateOwnProfileRequestModel)">
+            <summary>
+            Update own profile.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.UsersController.UpdatePassword(System.Guid,System.String,Authorization.Application.Models.Requests.User.UpdatePasswordRequestModel)">
+            <summary>
+            Change own password.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.UsersController.UpdateOwnAvatar(Authorization.Application.Models.Requests.User.UpdateOwnAvatarRequestModel)">
+            <summary>
+            Update own avatar.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.UsersController.DeleteOwnAvatar">
+            <summary>
+            Delete own avatar.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.UsersController.GetUsers(System.Collections.Generic.HashSet{System.Int32},System.Collections.Generic.List{System.String})">
+            <summary>
+            Get users.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.UsersController.GetUserById(System.Int32)">
+            <summary>
+            Get user.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.UsersController.UpdateUserRoles(System.Int32,Authorization.Application.Models.Requests.User.UpdateUserRolesRequestModel)">
+            <summary>
+            Update user roles.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.UsersController.UpdateUserStatus(System.Int32,Authorization.Application.Models.Requests.User.UpdateUserStatusRequestModel)">
+            <summary>
+            Update user status.
+            </summary>
+        </member>
+        <member name="M:Authorization.Application.Controllers.UsersController.DeleteUser(System.Int32)">
+            <summary>
+            Delete user.
+            </summary>
+        </member>
+    </members>
+</doc>
