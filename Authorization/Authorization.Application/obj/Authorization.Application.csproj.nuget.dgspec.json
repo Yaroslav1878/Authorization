@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/user/Documents/AxonProject/Authorization/Authorization.Application/Authorization.Application.csproj": {}
+    "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Application\\Authorization.Application.csproj": {}
   },
   "projects": {
-    "/home/user/Documents/AxonProject/Authorization/Authorization.Application/Authorization.Application.csproj": {
+    "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Application\\Authorization.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/user/Documents/AxonProject/Authorization/Authorization.Application/Authorization.Application.csproj",
+        "projectUniqueName": "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Application\\Authorization.Application.csproj",
         "projectName": "Authorization.Application",
-        "projectPath": "/home/user/Documents/AxonProject/Authorization/Authorization.Application/Authorization.Application.csproj",
-        "packagesPath": "/home/user/.nuget/packages/",
-        "outputPath": "/home/user/Documents/AxonProject/Authorization/Authorization.Application/obj/",
+        "projectPath": "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Application\\Authorization.Application.csproj",
+        "packagesPath": "C:\\Users\\y.lysenko\\.nuget\\packages\\",
+        "outputPath": "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/user/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\y.lysenko\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/user/Documents/AxonProject/Authorization/Authorization.Domain/Authorization.Domain.csproj": {
-                "projectPath": "/home/user/Documents/AxonProject/Authorization/Authorization.Domain/Authorization.Domain.csproj"
+              "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Domain\\Authorization.Domain.csproj": {
+                "projectPath": "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Domain\\Authorization.Domain.csproj"
               }
             }
           }
@@ -135,21 +135,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/user/Documents/AxonProject/Authorization/Authorization.Domain/Authorization.Domain.csproj": {
+    "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Domain\\Authorization.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/user/Documents/AxonProject/Authorization/Authorization.Domain/Authorization.Domain.csproj",
+        "projectUniqueName": "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Domain\\Authorization.Domain.csproj",
         "projectName": "Authorization.Domain",
-        "projectPath": "/home/user/Documents/AxonProject/Authorization/Authorization.Domain/Authorization.Domain.csproj",
-        "packagesPath": "/home/user/.nuget/packages/",
-        "outputPath": "/home/user/Documents/AxonProject/Authorization/Authorization.Domain/obj/",
+        "projectPath": "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Domain\\Authorization.Domain.csproj",
+        "packagesPath": "C:\\Users\\y.lysenko\\.nuget\\packages\\",
+        "outputPath": "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/user/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\y.lysenko\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -234,7 +234,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

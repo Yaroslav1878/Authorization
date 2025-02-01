@@ -9305,19 +9305,19 @@
     ]
   },
   "packageFolders": {
-    "/home/user/.nuget/packages/": {}
+    "C:\\Users\\y.lysenko\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/Documents/AxonProject/Authorization/Authorization.Domain.Tests/Authorization.Domain.Tests.csproj",
+      "projectUniqueName": "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Domain.Tests\\Authorization.Domain.Tests.csproj",
       "projectName": "Authorization.Domain.Tests",
-      "projectPath": "/home/user/Documents/AxonProject/Authorization/Authorization.Domain.Tests/Authorization.Domain.Tests.csproj",
-      "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/Documents/AxonProject/Authorization/Authorization.Domain.Tests/obj/",
+      "projectPath": "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Domain.Tests\\Authorization.Domain.Tests.csproj",
+      "packagesPath": "C:\\Users\\y.lysenko\\.nuget\\packages\\",
+      "outputPath": "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Domain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/user/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\y.lysenko\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -9329,11 +9329,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/user/Documents/AxonProject/Authorization/Authorization.Application/Authorization.Application.csproj": {
-              "projectPath": "/home/user/Documents/AxonProject/Authorization/Authorization.Application/Authorization.Application.csproj"
+            "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Application\\Authorization.Application.csproj": {
+              "projectPath": "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Application\\Authorization.Application.csproj"
             },
-            "/home/user/Documents/AxonProject/Authorization/Authorization.Domain/Authorization.Domain.csproj": {
-              "projectPath": "/home/user/Documents/AxonProject/Authorization/Authorization.Domain/Authorization.Domain.csproj"
+            "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Domain\\Authorization.Domain.csproj": {
+              "projectPath": "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Domain\\Authorization.Domain.csproj"
             }
           }
         }
@@ -9423,7 +9423,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

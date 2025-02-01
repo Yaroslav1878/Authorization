@@ -109,7 +109,7 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
-app.MapGet("/", () => "Welcome to Reference project!");
+app.MapGet("/", () => "Welcome to 'Pilot Auth' project!");
 app.Run();
 
 void ConfigureServices(IServiceCollection services, WebApplicationBuilder webApplicationBuilder)
