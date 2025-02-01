@@ -26,4 +26,5 @@ public interface IUserService
     Task<IReadOnlyCollection<AuthType>> GetUserAuthTypes(string email);
     Task SendPasswordResetEmail(string email);
     Task ResetPassword(Guid confirmationId, string password);
+    Task<UserDto> UpdateUserRole(int userId, string roleId);
 }

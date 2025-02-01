@@ -7507,19 +7507,19 @@
     ]
   },
   "packageFolders": {
-    "/home/user/.nuget/packages/": {}
+    "C:\\Users\\y.lysenko\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/Documents/AxonProject/Authorization/Authorization.Application.Tests/Authorization.Application.Tests.csproj",
+      "projectUniqueName": "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Application.Tests\\Authorization.Application.Tests.csproj",
       "projectName": "Authorization.Application.Tests",
-      "projectPath": "/home/user/Documents/AxonProject/Authorization/Authorization.Application.Tests/Authorization.Application.Tests.csproj",
-      "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/Documents/AxonProject/Authorization/Authorization.Application.Tests/obj/",
+      "projectPath": "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Application.Tests\\Authorization.Application.Tests.csproj",
+      "packagesPath": "C:\\Users\\y.lysenko\\.nuget\\packages\\",
+      "outputPath": "C:\\PetProjects\\Axon\\PilotProject\\Authorization\\Authorization.Application.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/user/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\y.lysenko\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -7596,7 +7596,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

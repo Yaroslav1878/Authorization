@@ -11,3 +11,16 @@
 /home/user/Documents/AxonProject/Authorization/Authorization.Domain/obj/Debug/net8.0/refint/Authorization.Domain.dll
 /home/user/Documents/AxonProject/Authorization/Authorization.Domain/obj/Debug/net8.0/Authorization.Domain.pdb
 /home/user/Documents/AxonProject/Authorization/Authorization.Domain/obj/Debug/net8.0/ref/Authorization.Domain.dll
+C:\PetProjects\Axon\PilotProject\Authorization\Authorization.Domain\bin\Debug\net8.0\Authorization.Domain.deps.json
+C:\PetProjects\Axon\PilotProject\Authorization\Authorization.Domain\bin\Debug\net8.0\Authorization.Domain.dll
+C:\PetProjects\Axon\PilotProject\Authorization\Authorization.Domain\bin\Debug\net8.0\Authorization.Domain.pdb
+C:\PetProjects\Axon\PilotProject\Authorization\Authorization.Domain\obj\Debug\net8.0\Authorization.Domain.csproj.AssemblyReference.cache
+C:\PetProjects\Axon\PilotProject\Authorization\Authorization.Domain\obj\Debug\net8.0\Authorization.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PetProjects\Axon\PilotProject\Authorization\Authorization.Domain\obj\Debug\net8.0\Authorization.Domain.AssemblyInfoInputs.cache
+C:\PetProjects\Axon\PilotProject\Authorization\Authorization.Domain\obj\Debug\net8.0\Authorization.Domain.AssemblyInfo.cs
+C:\PetProjects\Axon\PilotProject\Authorization\Authorization.Domain\obj\Debug\net8.0\Authorization.Domain.csproj.CoreCompileInputs.cache
+C:\PetProjects\Axon\PilotProject\Authorization\Authorization.Domain\obj\Debug\net8.0\Authorization.Domain.sourcelink.json
+C:\PetProjects\Axon\PilotProject\Authorization\Authorization.Domain\obj\Debug\net8.0\Authorization.Domain.dll
+C:\PetProjects\Axon\PilotProject\Authorization\Authorization.Domain\obj\Debug\net8.0\refint\Authorization.Domain.dll
+C:\PetProjects\Axon\PilotProject\Authorization\Authorization.Domain\obj\Debug\net8.0\Authorization.Domain.pdb
+C:\PetProjects\Axon\PilotProject\Authorization\Authorization.Domain\obj\Debug\net8.0\ref\Authorization.Domain.dll

@@ -158,16 +158,16 @@ public class UsersController(
     /// <summary>
     /// Update user roles.
     /// </summary>
-    [HttpPut("{userId}/roles")]
+    [HttpPut("{userId}/role")]
     [Scope(Scopes.ManageUsers)]
-    public async Task<IActionResult> UpdateUserRoles(
+    public async Task<IActionResult> UpdateUserRole(
         [FromRoute] int userId,
-        [FromBody] UpdateUserRolesRequestModel request)
+        [FromBody] UpdateUserRoleRequestModel request)
     {
-        var response = await mediator.Send(new UpdateUserRolesCommand
+        var response = await mediator.Send(new UpdateUserRoleCommand
         {
             UserId = userId,
-            RoleIds = request.RoleIds,
+            RoleId = request.RoleId,
         });
         return Ok(response);
     }

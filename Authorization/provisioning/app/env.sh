@@ -2,9 +2,9 @@ PERSISTENCE_HOST=localhost;
 PERSISTENCE_PORT=5432;
 PERSISTENCE_USER=postgres;
 PERSISTENCE_PASSWORD=changeme;
-PERSISTENCE_DB=reference;
+PERSISTENCE_DB=pilot;
 PERSISTENCE_SCHEMA=auth;
 
-APPLICATION_IMAGE_NAME=dotnet-reference-authorization;
-APPLICATION_CONTAINER_NAME=dotnet-reference-authorization;
+APPLICATION_IMAGE_NAME=dotnet-pilot-authorization;
+APPLICATION_CONTAINER_NAME=dotnet-pilot-authorization;
 APPLICATION_PORT=16421;

@@ -7,7 +7,7 @@
 This microservice is an example of **OAuth2 authorizatoin** microservice.
 
 ## Prerequisites
-You should have [.NET Core 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) installed
+You should have [.NET Core 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) installed
 
 ## How to run it?
 

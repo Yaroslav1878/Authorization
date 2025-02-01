@@ -298,7 +298,16 @@ public class UserService(IUserRepository userRepository,
         await confirmationRequestService.Confirm(confirmationRequest.User.Id, ConfirmationRequestSubject.Registration);
         await unitOfWork.Commit();
     }
-    
+
+    public async Task<UserDto> UpdateUserRole(int userId, string roleId)
+    {
+        var user = userRepository.FindFirst(user => user.Id == userId, user => user.Role);
+        user.RoleId = roleId;
+        userRepository.Update(user);
+        await unitOfWork.Commit();
+        return mapper.Map<UserDto>(user);
+    }
+
     private async Task UpdateUserAuth(int userId, AuthType authType, string password)
     {
         UserAuth? userAuth = null;

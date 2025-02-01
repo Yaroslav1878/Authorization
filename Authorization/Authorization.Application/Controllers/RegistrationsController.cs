@@ -3,6 +3,7 @@ using Authorization.Application.Attributes;
 using Authorization.Application.Constants;
 using Authorization.Application.Models.Commands.Registration;
 using Authorization.Application.Models.Requests.UserManagement;
+using AutoMapper;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,7 +11,8 @@ namespace Authorization.Application.Controllers;
 
 [ApiController]
 [Route("registrations")]
-public class RegistrationsController(IMediator mediator) : Controller
+public class RegistrationsController(
+    IMediator mediator) : Controller
 {
     /// <summary>
     /// Invite user.

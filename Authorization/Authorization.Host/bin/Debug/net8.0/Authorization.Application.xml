@@ -94,7 +94,7 @@
             Get user.
             </summary>
         </member>
-        <member name="M:Authorization.Application.Controllers.UsersController.UpdateUserRoles(System.Int32,Authorization.Application.Models.Requests.User.UpdateUserRolesRequestModel)">
+        <member name="M:Authorization.Application.Controllers.UsersController.UpdateUserRole(System.Int32,Authorization.Application.Models.Requests.User.UpdateUserRoleRequestModel)">
             <summary>
             Update user roles.
             </summary>

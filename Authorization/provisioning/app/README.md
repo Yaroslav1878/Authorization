@@ -13,4 +13,4 @@ Provisioning consists of several parts:
 3. Run *run.sh*
 
 ### How can I check that it worked?
-1. Execute `docker ps` and check that there is a `dotnet-reference-authorization` container up and running.
+1. Execute `docker ps` and check that there is a `dotnet-pilot-authorization` container up and running.
